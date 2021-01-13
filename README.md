@@ -1,5 +1,6 @@
 ### Hi there Ctrl Intelligence Here👋
 
+I'm working on backend, system, games and frontend development
 
 - 🔭 I’m currently working on making my fure.
 - 🌱 I’m currently learning Ruby On Rails, Ms Graph, Dialog Flow
