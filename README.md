@@ -44,11 +44,14 @@ https://ctrlintelligence.medium.com/uploading-files-to-azure-blob-storage-with-a
 https://ctrlintelligence.medium.com/introduction-to-localstorage-and-sessionstorage-626deaf60d4f
 <!-- MEDIUM:END -->
 
-## Socials
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Dinuda3
-[instagram]: https://www.instagram.com/dyh_yaks
-[linkedin]: https://www.linkedin.com/in/dinuda-yaggahavita-7b0a8215a
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dinuda3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dinuda3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinuda yaggahvita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dinuda yaggahvita" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ctrl intelligence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ctrl intelligence" height="30" width="40" /></a>
+<a href="https://instagram.com/ctrl__intellience_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ctrl__intellience_" height="30" width="40" /></a>
+<a href="https://medium.com/@ctrlintelligence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ctrlintelligence" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dinuda yaggahavita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dinuda yaggahavita" height="30" width="40" /></a>
+<a href="https://discord.gg/Ctrl Intelligence#1220" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Ctrl Intelligence#1220" height="30" width="40" /></a>
+</p>
