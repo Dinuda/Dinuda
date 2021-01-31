@@ -20,8 +20,7 @@ I'm working on backend, system, games and frontend development.
 ---
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dinuda&show_icons=true&count_private=true&hide_border=true&theme=radical" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dinuda&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 ## 📝 Latest Blog Posts
 
@@ -44,3 +43,4 @@ https://ctrlintelligence.medium.com/introduction-to-localstorage-and-sessionstor
 <a href="https://medium.com/@ctrlintelligence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ctrlintelligence" height="30" width="40" /></a>
 <a href="https://discord.gg/Ctrl Intelligence#1220" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Ctrl Intelligence#1220" height="30" width="40" /></a>
 </p>
+3
