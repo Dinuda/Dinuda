@@ -1,4 +1,5 @@
-## Hi there Ctrl Intelligence Here👋
+## Hi there Dinuda Yaggahavita Here👋
+## AKA Ctrl Intelligence
 
 I'm working on backend, system, games and frontend development. 
 
