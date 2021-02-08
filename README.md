@@ -10,6 +10,7 @@ I'm working on backend system development, frontend development.AKA full-stack d
 - 🌱 I’m currently learning Ruby On Rails, Ms Graph and Dialog Flow.
 - 👯 I’m looking to collaborate on making revolutionary products.
 - 💬 Ask me about my expreience and anything related to software
+- 🔓 Check out https://github.com/GiantTechnologies I mostly do open-source there
 - 😄 Pronouns: Pro.. Grammer
 - ⚡ Fun fact: I hate .NetCore Identity
 
