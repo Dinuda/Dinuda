@@ -143,15 +143,18 @@ I'm working on backend system development, frontend development.AKA full-stack d
 
 <br/>  
 
+### Languages 🌐
 
-## Recent Blog Posts  
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English (duh) | C2
+| Sinhala       | Native language                                                         |
+
+## Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-https://ctrlintelligence.medium.com/developer-essentials-for-2021-d6a3c257b329
-https://ctrlintelligence.medium.com/angular-error-unsafe-value-used-in-a-resource-url-context-73838e97b082 
-https://ctrlintelligence.medium.com/3-steps-to-embed-pdf-documents-in-html-website-5d640647aa20 
-https://ctrlintelligence.medium.com/global-error-handling-in-angular-42c31859786f 
-https://ctrlintelligence.medium.com/uploading-files-to-azure-blob-storage-with-angular-and-asp-net-core-e77cf4ad085f 
-https://ctrlintelligence.medium.com/introduction-to-localstorage-and-sessionstorage-626deaf60d4f
+- [👑 Developer Essentials for 2021 💻](https://ctrlintelligence.medium.com/developer-essentials-for-2021-d6a3c257b329)
+- [🍿 Top Programming languages that will rule 2021 📃](https://ctrlintelligence.medium.com/top-programming-languages-that-will-rule-2021-cce1ee55d53f)
+- [🤝 Uploading Files to Azure Blob Storage with Angular and ASP.NET Core 🍭](https://ctrlintelligence.medium.com/uploading-files-to-azure-blob-storage-with-angular-and-asp-net-core-e77cf4ad085f)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
