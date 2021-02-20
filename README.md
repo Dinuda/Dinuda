@@ -155,7 +155,7 @@ I'm working on backend system development, frontend development.AKA full-stack d
 - [👑 Developer Essentials for 2021 💻](https://ctrlintelligence.medium.com/developer-essentials-for-2021-d6a3c257b329)
 - [🍿 Top Programming languages that will rule 2021 📃](https://ctrlintelligence.medium.com/top-programming-languages-that-will-rule-2021-cce1ee55d53f)
 - [🤝 Uploading Files to Azure Blob Storage with Angular and ASP.NET Core 🍭](https://ctrlintelligence.medium.com/uploading-files-to-azure-blob-storage-with-angular-and-asp-net-core-e77cf4ad085f)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:ENDs -->  
 
 <br/>  
 
