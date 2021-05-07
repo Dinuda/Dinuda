@@ -7,12 +7,12 @@ I'm working on backend system development, frontend development.AKA full-stack d
 
 
 - 🔭 I’m currently working on making my future.
-- 🌱 I’m currently learning Ruby On Rails, Ms Graph and Dialog Flow.
+- 🌱 I’m currently learning Monads.
 - 👯 I’m looking to collaborate on making revolutionary products.
-- 💬 Ask me about my expreience and anything related to software
-- 🔓 Check out https://github.com/GiantTechnologies I mostly do open-source there
+- 💬 Reah me out through - ydinuda@gmail.com 
+- 🔓 Check out https://github.com/GiantTechnologies - My software company.
 - 😄 Pronouns: Pro.. Grammer
-- ⚡ Fun fact: I hate .NetCore Identity
+- ⚡ Fun fact: ![Profile views](https://gpvc.arturio.dev/Harindulk)  
 
 
 ## My Skill Set  
@@ -96,12 +96,8 @@ I'm working on backend system development, frontend development.AKA full-stack d
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -141,6 +137,7 @@ I'm working on backend system development, frontend development.AKA full-stack d
 ## Github Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dinuda&show_icons=true&count_private=true&include_all_commits&hide_border=true" align="center" />
+  <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinuda&" alt="dinuda" background/>
 </div>
 <br>
