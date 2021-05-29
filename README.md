@@ -12,7 +12,7 @@ I'm working on backend system development, frontend development.AKA full-stack d
 - 💬 Reah me out through - ydinuda@gmail.com 
 - 🔓 Check out https://github.com/GiantTechnologies - My software company.
 - 😄 Pronouns: Pro.. Grammer
-- ⚡ Fun fact: ![Profile views](https://gpvc.arturio.dev/Harindulk)  
+- ⚡ Fun fact: ![Profile views](https://gpvc.arturio.dev/Dinuda)  
 
 
 ## My Skill Set  
