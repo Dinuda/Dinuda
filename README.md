@@ -7,7 +7,7 @@ I'm working on backend system development, frontend development.AKA full-stack d
 
 
 - 🔭 I’m currently working on making my future.
-- 🌱 I’m currently learning Monads.
+- 🌱 I’m currently learning Cognitive Computing.
 - 👯 I’m looking to collaborate on making revolutionary products.
 - 💬 Reach me out through - ydinuda@gmail.com 
 - 🔓 Check out https://github.com/GiantTechnologies - My software company.
