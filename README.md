@@ -1,10 +1,6 @@
 ## Hi there Dinuda Yaggahavita Here👋
 ## AKA Ctrl Intelligence
 
-I'm working on backend system development, frontend development.AKA full-stack developer. Also, Im a huge fan of API's
-
-![](https://user-images.githubusercontent.com/12915136/87480122-ab9e5e00-c5fa-11ea-82b1-b4d3340b5c27.png)
-
 
 - 🔭 I’m currently working on making my future.
 - 🌱 I’m currently learning Cognitive Computing.
