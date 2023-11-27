@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Cognitive Computing.
 - 👯 I’m looking to collaborate on making revolutionary products.
 - 💬 Reach me out through - ydinuda@gmail.com 
-- 🔓 Check out https://github.com/GiantTechnologies - My software company.
+- 🔓 Check out https://github.com/opensource-sri-lanka - Open source contributions at
 - 😄 Pronouns: Pro.. Grammer
 - ⚡ Fun fact: ![Profile views](https://gpvc.arturio.dev/Dinuda)  
 
